@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Deployments\ChatConnect</_PublishTargetUrl>
+    <History>True|2024-08-02T12:45:58.7652473Z||;True|2024-08-02T17:28:15.2747412+05:30||;True|2024-08-02T17:25:05.4096953+05:30||;True|2024-08-02T14:10:49.2045418+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

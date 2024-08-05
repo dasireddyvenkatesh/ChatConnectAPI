@@ -1,0 +1,481 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectTestCases\\ChatConnectTestCases.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectConstants\\ChatConnectConstants.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectConstants\\ChatConnectConstants.csproj",
+        "projectName": "ChatConnectConstants",
+        "projectPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectConstants\\ChatConnectConstants.csproj",
+        "packagesPath": "C:\\Users\\DasireddyVenkatesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectConstants\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DasireddyVenkatesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectInterfaces\\ChatConnectInterfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectInterfaces\\ChatConnectInterfaces.csproj",
+        "projectName": "ChatConnectInterfaces",
+        "projectPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectInterfaces\\ChatConnectInterfaces.csproj",
+        "packagesPath": "C:\\Users\\DasireddyVenkatesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectInterfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DasireddyVenkatesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectModels\\ChatConnectModels.csproj": {
+                "projectPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectModels\\ChatConnectModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectModels\\ChatConnectModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectModels\\ChatConnectModels.csproj",
+        "projectName": "ChatConnectModels",
+        "projectPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectModels\\ChatConnectModels.csproj",
+        "packagesPath": "C:\\Users\\DasireddyVenkatesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DasireddyVenkatesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectRepoInterfaces\\ChatConnectRepoInterfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectRepoInterfaces\\ChatConnectRepoInterfaces.csproj",
+        "projectName": "ChatConnectRepoInterfaces",
+        "projectPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectRepoInterfaces\\ChatConnectRepoInterfaces.csproj",
+        "packagesPath": "C:\\Users\\DasireddyVenkatesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectRepoInterfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DasireddyVenkatesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectModels\\ChatConnectModels.csproj": {
+                "projectPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectModels\\ChatConnectModels.csproj"
+              },
+              "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectRepoModels\\ChatConnectRepoModels.csproj": {
+                "projectPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectRepoModels\\ChatConnectRepoModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectRepoModels\\ChatConnectRepoModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectRepoModels\\ChatConnectRepoModels.csproj",
+        "projectName": "ChatConnectRepoModels",
+        "projectPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectRepoModels\\ChatConnectRepoModels.csproj",
+        "packagesPath": "C:\\Users\\DasireddyVenkatesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectRepoModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DasireddyVenkatesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectServices\\ChatConnectServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectServices\\ChatConnectServices.csproj",
+        "projectName": "ChatConnectServices",
+        "projectPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectServices\\ChatConnectServices.csproj",
+        "packagesPath": "C:\\Users\\DasireddyVenkatesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DasireddyVenkatesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectConstants\\ChatConnectConstants.csproj": {
+                "projectPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectConstants\\ChatConnectConstants.csproj"
+              },
+              "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectInterfaces\\ChatConnectInterfaces.csproj": {
+                "projectPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectInterfaces\\ChatConnectInterfaces.csproj"
+              },
+              "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectRepoInterfaces\\ChatConnectRepoInterfaces.csproj": {
+                "projectPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectRepoInterfaces\\ChatConnectRepoInterfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectTestCases\\ChatConnectTestCases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectTestCases\\ChatConnectTestCases.csproj",
+        "projectName": "ChatConnectTestCases",
+        "projectPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectTestCases\\ChatConnectTestCases.csproj",
+        "packagesPath": "C:\\Users\\DasireddyVenkatesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectTestCases\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DasireddyVenkatesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectInterfaces\\ChatConnectInterfaces.csproj": {
+                "projectPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectInterfaces\\ChatConnectInterfaces.csproj"
+              },
+              "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectServices\\ChatConnectServices.csproj": {
+                "projectPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectServices\\ChatConnectServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.10.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectRepoModels\bin\Debug\net8.0\ChatConnectRepoModels.deps.json
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectRepoModels\bin\Debug\net8.0\ChatConnectRepoModels.dll
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectRepoModels\bin\Debug\net8.0\ChatConnectRepoModels.pdb
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectRepoModels\obj\Debug\net8.0\ChatConnectRepoModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectRepoModels\obj\Debug\net8.0\ChatConnectRepoModels.AssemblyInfoInputs.cache
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectRepoModels\obj\Debug\net8.0\ChatConnectRepoModels.AssemblyInfo.cs
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectRepoModels\obj\Debug\net8.0\ChatConnectRepoModels.csproj.CoreCompileInputs.cache
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectRepoModels\obj\Debug\net8.0\ChatConnectRepoModels.dll
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectRepoModels\obj\Debug\net8.0\refint\ChatConnectRepoModels.dll
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectRepoModels\obj\Debug\net8.0\ChatConnectRepoModels.pdb
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectRepoModels\obj\Debug\net8.0\ref\ChatConnectRepoModels.dll
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectRepoModels\obj\Debug\net8.0\ChatConnectRepoModels.sourcelink.json

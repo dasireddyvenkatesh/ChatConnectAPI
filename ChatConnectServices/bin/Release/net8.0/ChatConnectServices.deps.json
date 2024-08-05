@@ -1,0 +1,85 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ChatConnectServices/1.0.0": {
+        "dependencies": {
+          "ChatConnectConstants": "1.0.0",
+          "ChatConnectInterfaces": "1.0.0",
+          "ChatConnectRepoInterfaces": "1.0.0"
+        },
+        "runtime": {
+          "ChatConnectServices.dll": {}
+        }
+      },
+      "ChatConnectConstants/1.0.0": {
+        "runtime": {
+          "ChatConnectConstants.dll": {}
+        }
+      },
+      "ChatConnectInterfaces/1.0.0": {
+        "dependencies": {
+          "ChatConnectModels": "1.0.0"
+        },
+        "runtime": {
+          "ChatConnectInterfaces.dll": {}
+        }
+      },
+      "ChatConnectModels/1.0.0": {
+        "runtime": {
+          "ChatConnectModels.dll": {}
+        }
+      },
+      "ChatConnectRepoInterfaces/1.0.0": {
+        "dependencies": {
+          "ChatConnectModels": "1.0.0",
+          "ChatConnectRepoModels": "1.0.0"
+        },
+        "runtime": {
+          "ChatConnectRepoInterfaces.dll": {}
+        }
+      },
+      "ChatConnectRepoModels/1.0.0": {
+        "runtime": {
+          "ChatConnectRepoModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChatConnectServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChatConnectConstants/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChatConnectInterfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChatConnectModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChatConnectRepoInterfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChatConnectRepoModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

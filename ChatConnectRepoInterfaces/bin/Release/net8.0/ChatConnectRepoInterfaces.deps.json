@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ChatConnectRepoInterfaces/1.0.0": {
+        "dependencies": {
+          "ChatConnectModels": "1.0.0",
+          "ChatConnectRepoModels": "1.0.0"
+        },
+        "runtime": {
+          "ChatConnectRepoInterfaces.dll": {}
+        }
+      },
+      "ChatConnectModels/1.0.0": {
+        "runtime": {
+          "ChatConnectModels.dll": {}
+        }
+      },
+      "ChatConnectRepoModels/1.0.0": {
+        "runtime": {
+          "ChatConnectRepoModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChatConnectRepoInterfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChatConnectModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChatConnectRepoModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

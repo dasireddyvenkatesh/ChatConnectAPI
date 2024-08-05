@@ -1,0 +1,172 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "ChatConnectConstants/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ChatConnectConstants.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChatConnectConstants.dll": {}
+        }
+      },
+      "ChatConnectInterfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ChatConnectModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ChatConnectInterfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChatConnectInterfaces.dll": {}
+        }
+      },
+      "ChatConnectModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ChatConnectModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChatConnectModels.dll": {}
+        }
+      },
+      "ChatConnectRepoInterfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ChatConnectModels": "1.0.0",
+          "ChatConnectRepoModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ChatConnectRepoInterfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChatConnectRepoInterfaces.dll": {}
+        }
+      },
+      "ChatConnectRepoModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ChatConnectRepoModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChatConnectRepoModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChatConnectConstants/1.0.0": {
+      "type": "project",
+      "path": "../ChatConnectConstants/ChatConnectConstants.csproj",
+      "msbuildProject": "../ChatConnectConstants/ChatConnectConstants.csproj"
+    },
+    "ChatConnectInterfaces/1.0.0": {
+      "type": "project",
+      "path": "../ChatConnectInterfaces/ChatConnectInterfaces.csproj",
+      "msbuildProject": "../ChatConnectInterfaces/ChatConnectInterfaces.csproj"
+    },
+    "ChatConnectModels/1.0.0": {
+      "type": "project",
+      "path": "../ChatConnectModels/ChatConnectModels.csproj",
+      "msbuildProject": "../ChatConnectModels/ChatConnectModels.csproj"
+    },
+    "ChatConnectRepoInterfaces/1.0.0": {
+      "type": "project",
+      "path": "../ChatConnectRepoInterfaces/ChatConnectRepoInterfaces.csproj",
+      "msbuildProject": "../ChatConnectRepoInterfaces/ChatConnectRepoInterfaces.csproj"
+    },
+    "ChatConnectRepoModels/1.0.0": {
+      "type": "project",
+      "path": "../ChatConnectRepoModels/ChatConnectRepoModels.csproj",
+      "msbuildProject": "../ChatConnectRepoModels/ChatConnectRepoModels.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "ChatConnectConstants >= 1.0.0",
+      "ChatConnectInterfaces >= 1.0.0",
+      "ChatConnectRepoInterfaces >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DasireddyVenkatesh\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectServices\\ChatConnectServices.csproj",
+      "projectName": "ChatConnectServices",
+      "projectPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectServices\\ChatConnectServices.csproj",
+      "packagesPath": "C:\\Users\\DasireddyVenkatesh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectServices\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\DasireddyVenkatesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectConstants\\ChatConnectConstants.csproj": {
+              "projectPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectConstants\\ChatConnectConstants.csproj"
+            },
+            "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectInterfaces\\ChatConnectInterfaces.csproj": {
+              "projectPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectInterfaces\\ChatConnectInterfaces.csproj"
+            },
+            "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectRepoInterfaces\\ChatConnectRepoInterfaces.csproj": {
+              "projectPath": "C:\\Users\\DasireddyVenkatesh\\source\\repos\\ChatConnect API\\ChatConnectRepoInterfaces\\ChatConnectRepoInterfaces.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

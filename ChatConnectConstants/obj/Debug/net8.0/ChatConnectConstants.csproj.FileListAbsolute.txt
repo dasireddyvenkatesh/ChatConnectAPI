@@ -1,0 +1,12 @@
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectConstants\bin\Debug\net8.0\ChatConnectConstants.deps.json
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectConstants\bin\Debug\net8.0\ChatConnectConstants.dll
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectConstants\bin\Debug\net8.0\ChatConnectConstants.pdb
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectConstants\obj\Debug\net8.0\ChatConnectConstants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectConstants\obj\Debug\net8.0\ChatConnectConstants.AssemblyInfoInputs.cache
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectConstants\obj\Debug\net8.0\ChatConnectConstants.AssemblyInfo.cs
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectConstants\obj\Debug\net8.0\ChatConnectConstants.csproj.CoreCompileInputs.cache
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectConstants\obj\Debug\net8.0\ChatConnectConstants.dll
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectConstants\obj\Debug\net8.0\refint\ChatConnectConstants.dll
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectConstants\obj\Debug\net8.0\ChatConnectConstants.pdb
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectConstants\obj\Debug\net8.0\ref\ChatConnectConstants.dll
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectConstants\obj\Debug\net8.0\ChatConnectConstants.sourcelink.json

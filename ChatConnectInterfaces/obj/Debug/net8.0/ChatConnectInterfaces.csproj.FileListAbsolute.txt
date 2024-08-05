@@ -1,0 +1,16 @@
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectInterfaces\bin\Debug\net8.0\ChatConnectInterfaces.deps.json
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectInterfaces\bin\Debug\net8.0\ChatConnectInterfaces.dll
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectInterfaces\bin\Debug\net8.0\ChatConnectInterfaces.pdb
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectInterfaces\bin\Debug\net8.0\ChatConnectModels.dll
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectInterfaces\bin\Debug\net8.0\ChatConnectModels.pdb
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectInterfaces\obj\Debug\net8.0\ChatConnectInterfaces.csproj.AssemblyReference.cache
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectInterfaces\obj\Debug\net8.0\ChatConnectInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectInterfaces\obj\Debug\net8.0\ChatConnectInterfaces.AssemblyInfoInputs.cache
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectInterfaces\obj\Debug\net8.0\ChatConnectInterfaces.AssemblyInfo.cs
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectInterfaces\obj\Debug\net8.0\ChatConnectInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectInterfaces\obj\Debug\net8.0\ChatConn.C0FA7483.Up2Date
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectInterfaces\obj\Debug\net8.0\ChatConnectInterfaces.dll
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectInterfaces\obj\Debug\net8.0\refint\ChatConnectInterfaces.dll
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectInterfaces\obj\Debug\net8.0\ChatConnectInterfaces.pdb
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectInterfaces\obj\Debug\net8.0\ref\ChatConnectInterfaces.dll
+C:\Users\DasireddyVenkatesh\source\repos\ChatConnect API\ChatConnectInterfaces\obj\Debug\net8.0\ChatConnectInterfaces.sourcelink.json
